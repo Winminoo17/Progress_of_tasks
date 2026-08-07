@@ -7,6 +7,12 @@
       "name": "Algebra",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "5374684f-013b-4c57-9c64-19b5bebb6c82",
+      "name": "Django",
+      "minutes": 180,
+      "done": false
     }
   ],
   "history": {}
