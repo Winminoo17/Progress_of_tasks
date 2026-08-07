@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Progress Ledger</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="page">
+
+    <!-- MARGIN COLUMN (signature element: ledger spine with day ticks) -->
+    <aside class="spine" id="spine" aria-hidden="true"></aside>
+
+    <div class="sheet">
+
+      <!-- HEADER -->
+      <header class="masthead">
+        <div class="masthead-top">
+          <div>
+            <p class="eyebrow" id="today-label">—</p>
+            <h1>Progress Ledger</h1>
+          </div>
+          <button class="btn-add" id="open-add-task">
+            <span class="plus">+</span> Add task
+          </button>
+        </div>
+        <p class="masthead-sub" id="start-date-label"></p>
+      </header>
+
+      <!-- ADD TASK FORM (hidden by default) -->
+      <div class="add-form" id="add-form" hidden>
+        <input type="text" id="task-name-input" placeholder="Task name" maxlength="60">
+        <input type="number" id="task-minutes-input" placeholder="Minutes" min="1" max="999">
+        <div class="add-form-actions">
+          <button class="btn-ghost" id="cancel-add-task" type="button">Cancel</button>
+          <button class="btn-solid" id="confirm-add-task" type="button">Add to ledger</button>
+        </div>
+      </div>
+
+      <!-- TASK LIST -->
+      <section class="ledger-block">
+        <div class="block-head">
+          <h2>Today's entries</h2>
+          <span class="block-count" id="task-count">0</span>
+        </div>
+
+        <div class="task-list" id="task-list">
+          <!-- rows injected here -->
+        </div>
+
+        <p class="empty-state" id="empty-state" hidden>
+          Nothing logged yet. Add your first task for today above.
+        </p>
+      </section>
+
+      <!-- PROGRESS WIDGET -->
+      <section class="ledger-block progress-block">
+        <div class="block-head">
+          <h2>Today's completion</h2>
+        </div>
+        <div class="progress-widget">
+          <div class="progress-ring-wrap">
+            <svg viewBox="0 0 120 120" class="progress-ring">
+              <circle cx="60" cy="60" r="52" class="ring-track"></circle>
+              <circle cx="60" cy="60" r="52" class="ring-fill" id="ring-fill"></circle>
+            </svg>
+            <div class="ring-center">
+              <span class="ring-number" id="ring-number">0</span><span class="ring-percent">%</span>
+              <span class="ring-caption">finished</span>
+            </div>
+          </div>
+          <dl class="progress-stats">
+            <div class="stat">
+              <dt>Finished</dt>
+              <dd id="stat-finished">0%</dd>
+            </div>
+            <div class="stat">
+              <dt>Left to do</dt>
+              <dd id="stat-remaining">0%</dd>
+            </div>
+            <div class="stat">
+              <dt>Tasks done</dt>
+              <dd id="stat-count">0 / 0</dd>
+            </div>
+          </dl>
+        </div>
+      </section>
+
+      <!-- TREND GRAPH -->
+      <section class="ledger-block">
+        <div class="block-head">
+          <h2>Finishing rate trend</h2>
+          <div class="range-toggle" id="range-toggle">
+            <button data-range="day" class="active">Day</button>
+            <button data-range="week">Week</button>
+            <button data-range="month">Month</button>
+          </div>
+        </div>
+        <div class="graph-wrap">
+          <svg id="trend-svg" viewBox="0 0 640 220" preserveAspectRatio="none"></svg>
+        </div>
+        <div class="graph-legend">
+          <span><i class="dot dot-good"></i> 60% or higher</span>
+          <span><i class="dot dot-bad"></i> below 60%</span>
+          <span class="legend-line">- - - pass line (60%)</span>
+        </div>
+      </section>
+
+      <!-- MESSAGES FOOTER -->
+      <footer class="ledger-footer">
+        <div class="footer-row">
+          <span class="footer-label">Today's rate</span>
+          <span class="footer-value" id="footer-today">0%</span>
+        </div>
+        <div class="footer-row">
+          <span class="footer-label">Overall rate, since <span id="footer-since">—</span></span>
+          <span class="footer-value" id="footer-overall">0%</span>
+        </div>
+        <button class="btn-text" id="clear-data">Clear all ledger data</button>
+      </footer>
+
+    </div>
+  </div>
+
+<script src="main.js"></script>
+</body>
+</html>
