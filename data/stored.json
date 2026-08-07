@@ -1,31 +1,8 @@
 {
   "startDate": "2026-08-07",
-  "currentDate": "2026-08-07",
-  "tasks": [
-    {
-      "id": "a27647e7-3147-433a-b3b8-b46d4ff2ce7c",
-      "name": "Algebra",
-      "minutes": 60,
-      "done": true
-    },
-    {
-      "id": "5374684f-013b-4c57-9c64-19b5bebb6c82",
-      "name": "Django",
-      "minutes": 180,
-      "done": true
-    },
-    {
-      "id": "9fcd9698-ec22-4a39-9d01-3dd13f285d0e",
-      "name": "Data Mining",
-      "minutes": 60,
-      "done": false
-    },
-    {
-      "id": "cb883579-f231-47d0-b605-b9f39ba1e350",
-      "name": "Computer Vision",
-      "minutes": 60,
-      "done": false
-    }
-  ],
-  "history": {}
+  "currentDate": "2026-08-08",
+  "tasks": [],
+  "history": {
+    "2026-08-07": 0
+  }
 }
