@@ -13,6 +13,18 @@
       "name": "Django",
       "minutes": 180,
       "done": false
+    },
+    {
+      "id": "9fcd9698-ec22-4a39-9d01-3dd13f285d0e",
+      "name": "Data Mining",
+      "minutes": 60,
+      "done": false
+    },
+    {
+      "id": "cb883579-f231-47d0-b605-b9f39ba1e350",
+      "name": "Computer Vision",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {}
