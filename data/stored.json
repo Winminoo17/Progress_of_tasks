@@ -1,34 +1,10 @@
 {
   "startDate": "2026-08-07",
-  "currentDate": "2026-08-09",
-  "tasks": [
-    {
-      "id": "90eeed14-84db-4149-b6a5-df3aa5fb6eeb",
-      "name": "Algebra",
-      "minutes": 60,
-      "done": true
-    },
-    {
-      "id": "e391a656-0f5b-41bd-930c-969464390968",
-      "name": "Data",
-      "minutes": 60,
-      "done": false
-    },
-    {
-      "id": "a51bc5b7-e0d5-440c-b046-90bb526459c3",
-      "name": "Django",
-      "minutes": 180,
-      "done": true
-    },
-    {
-      "id": "c8ca6837-8230-4306-b098-d94d13211943",
-      "name": "Computer Vision",
-      "minutes": 60,
-      "done": false
-    }
-  ],
+  "currentDate": "2026-08-10",
+  "tasks": [],
   "history": {
     "2026-08-07": 0,
-    "2026-08-08": 75
+    "2026-08-08": 75,
+    "2026-08-09": 50
   }
 }
