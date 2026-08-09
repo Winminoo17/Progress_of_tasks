@@ -7,6 +7,12 @@
       "name": "Algebra",
       "minutes": 1,
       "done": false
+    },
+    {
+      "id": "e391a656-0f5b-41bd-930c-969464390968",
+      "name": "Data",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {
