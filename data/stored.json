@@ -19,6 +19,12 @@
       "name": "Django",
       "minutes": 180,
       "done": false
+    },
+    {
+      "id": "c8ca6837-8230-4306-b098-d94d13211943",
+      "name": "Computer Vision",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {
