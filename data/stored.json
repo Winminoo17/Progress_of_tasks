@@ -13,6 +13,12 @@
       "name": "Data",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "a51bc5b7-e0d5-440c-b046-90bb526459c3",
+      "name": "Django",
+      "minutes": 180,
+      "done": false
     }
   ],
   "history": {
