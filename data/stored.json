@@ -1,7 +1,14 @@
 {
   "startDate": "2026-08-07",
   "currentDate": "2026-08-09",
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "90eeed14-84db-4149-b6a5-df3aa5fb6eeb",
+      "name": "Algebra",
+      "minutes": 1,
+      "done": false
+    }
+  ],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75
