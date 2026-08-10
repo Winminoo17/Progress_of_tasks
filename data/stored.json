@@ -13,6 +13,12 @@
       "name": "Data Mining",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "92196768-3b06-4d04-b99b-b10598749156",
+      "name": "EMPM",
+      "minutes": 120,
+      "done": false
     }
   ],
   "history": {
