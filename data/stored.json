@@ -1,7 +1,14 @@
 {
   "startDate": "2026-08-07",
   "currentDate": "2026-08-10",
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "70728fa7-5da6-4490-9f2f-1896fe6c9e80",
+      "name": "Django",
+      "minutes": 180,
+      "done": false
+    }
+  ],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
