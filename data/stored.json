@@ -7,6 +7,12 @@
       "name": "Django",
       "minutes": 180,
       "done": false
+    },
+    {
+      "id": "f63bddf5-a8e5-406e-b025-0559a9f783a3",
+      "name": "Data Mining",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {
