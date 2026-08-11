@@ -6,6 +6,12 @@
       "id": "058a21f5-68dc-43e5-9f8e-0d9ede23cbc6",
       "name": "Django",
       "minutes": 120,
+      "done": true
+    },
+    {
+      "id": "9c71044d-4328-4a21-920c-6d7a839c8eab",
+      "name": "Data Mining",
+      "minutes": 60,
       "done": false
     }
   ],
