@@ -19,6 +19,12 @@
       "name": "Computer Vision",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "9d4c332a-5758-4953-8ea8-a5ee1a37510d",
+      "name": "Eng speak",
+      "minutes": 15,
+      "done": false
     }
   ],
   "history": {
