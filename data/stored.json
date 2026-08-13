@@ -25,6 +25,12 @@
       "name": "Eng speak",
       "minutes": 15,
       "done": false
+    },
+    {
+      "id": "3330dd3f-ee11-48ad-916e-1ea6ae7a950b",
+      "name": "Algorithm",
+      "minutes": 120,
+      "done": false
     }
   ],
   "history": {
