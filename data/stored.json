@@ -24,13 +24,13 @@
       "id": "9d4c332a-5758-4953-8ea8-a5ee1a37510d",
       "name": "Eng speak",
       "minutes": 15,
-      "done": false
+      "done": true
     },
     {
       "id": "3330dd3f-ee11-48ad-916e-1ea6ae7a950b",
       "name": "Algorithm",
       "minutes": 120,
-      "done": false
+      "done": true
     }
   ],
   "history": {
