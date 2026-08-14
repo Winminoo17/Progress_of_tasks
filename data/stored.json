@@ -1,7 +1,14 @@
 {
   "startDate": "2026-08-07",
   "currentDate": "2026-08-14",
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "fabd24c7-9c44-481a-8df6-b9d92178e950",
+      "name": "React",
+      "minutes": 180,
+      "done": false
+    }
+  ],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
