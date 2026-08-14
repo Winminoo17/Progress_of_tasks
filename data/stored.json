@@ -13,6 +13,12 @@
       "name": "Calculus",
       "minutes": 120,
       "done": false
+    },
+    {
+      "id": "c150a34c-2339-4898-8b36-e88e9126d6c0",
+      "name": "Read review",
+      "minutes": 30,
+      "done": false
     }
   ],
   "history": {
