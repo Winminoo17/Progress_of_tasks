@@ -19,6 +19,12 @@
       "name": "Read review",
       "minutes": 30,
       "done": false
+    },
+    {
+      "id": "5385a2fc-8a0f-4e1f-acad-dcc59572b866",
+      "name": "Computer Vision",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {
