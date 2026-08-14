@@ -31,6 +31,12 @@
       "name": "Data Mining",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "0c62a3b2-57e7-4d7e-9872-8b342b873bb3",
+      "name": "Eng",
+      "minutes": 30,
+      "done": false
     }
   ],
   "history": {
