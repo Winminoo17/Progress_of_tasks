@@ -36,13 +36,13 @@
       "id": "0c62a3b2-57e7-4d7e-9872-8b342b873bb3",
       "name": "Eng",
       "minutes": 30,
-      "done": false
+      "done": true
     },
     {
       "id": "62315037-f201-43cc-9cc8-9475e20ce6b5",
       "name": "Algorithm",
       "minutes": 120,
-      "done": false
+      "done": true
     }
   ],
   "history": {
