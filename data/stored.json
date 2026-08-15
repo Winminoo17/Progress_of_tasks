@@ -18,7 +18,7 @@
       "id": "06169e3e-043d-4746-b30b-a0c5bb97c711",
       "name": "Calculus",
       "minutes": 120,
-      "done": false
+      "done": true
     },
     {
       "id": "601855b4-f95b-43ad-a14d-b104a0bdcd74",
@@ -30,7 +30,7 @@
       "id": "a2e273c0-cdc6-40b1-adb9-9256afcadabf",
       "name": "Eng",
       "minutes": 30,
-      "done": false
+      "done": true
     }
   ],
   "history": {
