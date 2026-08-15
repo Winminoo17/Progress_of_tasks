@@ -1,56 +1,14 @@
 {
   "startDate": "2026-08-07",
-  "currentDate": "2026-08-14",
-  "tasks": [
-    {
-      "id": "fabd24c7-9c44-481a-8df6-b9d92178e950",
-      "name": "React",
-      "minutes": 180,
-      "done": true
-    },
-    {
-      "id": "34b3ed83-7131-4fe7-a194-cab6b2841f98",
-      "name": "Calculus",
-      "minutes": 120,
-      "done": false
-    },
-    {
-      "id": "c150a34c-2339-4898-8b36-e88e9126d6c0",
-      "name": "Read review",
-      "minutes": 30,
-      "done": false
-    },
-    {
-      "id": "5385a2fc-8a0f-4e1f-acad-dcc59572b866",
-      "name": "Computer Vision",
-      "minutes": 60,
-      "done": false
-    },
-    {
-      "id": "22745891-1182-48d1-97a0-50992e662200",
-      "name": "Data Mining",
-      "minutes": 60,
-      "done": false
-    },
-    {
-      "id": "0c62a3b2-57e7-4d7e-9872-8b342b873bb3",
-      "name": "Eng",
-      "minutes": 30,
-      "done": true
-    },
-    {
-      "id": "62315037-f201-43cc-9cc8-9475e20ce6b5",
-      "name": "Algorithm",
-      "minutes": 120,
-      "done": true
-    }
-  ],
+  "currentDate": "2026-08-15",
+  "tasks": [],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
     "2026-08-09": 50,
     "2026-08-10": 50,
     "2026-08-11": 50,
-    "2026-08-13": 80
+    "2026-08-13": 80,
+    "2026-08-14": 43
   }
 }
