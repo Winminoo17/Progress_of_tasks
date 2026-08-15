@@ -19,6 +19,12 @@
       "name": "Calculus",
       "minutes": 120,
       "done": false
+    },
+    {
+      "id": "601855b4-f95b-43ad-a14d-b104a0bdcd74",
+      "name": "Computer Vision",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {
