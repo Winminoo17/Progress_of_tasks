@@ -7,6 +7,12 @@
       "name": "React",
       "minutes": 180,
       "done": false
+    },
+    {
+      "id": "ac2ade75-71ef-46e5-a19f-ba4a89c06b4e",
+      "name": "Data Mining",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {
