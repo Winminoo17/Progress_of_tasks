@@ -13,6 +13,12 @@
       "name": "Data Mining",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "06169e3e-043d-4746-b30b-a0c5bb97c711",
+      "name": "Calculus",
+      "minutes": 12,
+      "done": false
     }
   ],
   "history": {
