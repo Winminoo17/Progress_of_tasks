@@ -1,38 +1,7 @@
 {
   "startDate": "2026-08-07",
-  "currentDate": "2026-08-15",
-  "tasks": [
-    {
-      "id": "d8339825-8a82-407b-88cd-08d78aa80f38",
-      "name": "React",
-      "minutes": 180,
-      "done": true
-    },
-    {
-      "id": "ac2ade75-71ef-46e5-a19f-ba4a89c06b4e",
-      "name": "Data Mining",
-      "minutes": 60,
-      "done": false
-    },
-    {
-      "id": "06169e3e-043d-4746-b30b-a0c5bb97c711",
-      "name": "Calculus",
-      "minutes": 120,
-      "done": true
-    },
-    {
-      "id": "601855b4-f95b-43ad-a14d-b104a0bdcd74",
-      "name": "Computer Vision",
-      "minutes": 60,
-      "done": false
-    },
-    {
-      "id": "a2e273c0-cdc6-40b1-adb9-9256afcadabf",
-      "name": "Eng",
-      "minutes": 30,
-      "done": true
-    }
-  ],
+  "currentDate": "2026-08-16",
+  "tasks": [],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
@@ -40,6 +9,7 @@
     "2026-08-10": 50,
     "2026-08-11": 50,
     "2026-08-13": 80,
-    "2026-08-14": 43
+    "2026-08-14": 43,
+    "2026-08-15": 60
   }
 }
