@@ -19,6 +19,18 @@
       "name": "Computer Vision",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "706843e3-d5ff-48ff-abe9-5eee4f41f62a",
+      "name": "Eng",
+      "minutes": 30,
+      "done": false
+    },
+    {
+      "id": "45422211-7d3e-4dbb-baaf-316e185ffe9f",
+      "name": "Algorithm",
+      "minutes": 120,
+      "done": false
     }
   ],
   "history": {
