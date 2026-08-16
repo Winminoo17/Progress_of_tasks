@@ -6,13 +6,13 @@
       "id": "4642ca76-a7f0-4c78-854a-b9066a05ad76",
       "name": "Calculus",
       "minutes": 90,
-      "done": false
+      "done": true
     },
     {
       "id": "95c275a5-0706-4644-8529-3bd4fb64d7c9",
       "name": "React",
       "minutes": 180,
-      "done": false
+      "done": true
     },
     {
       "id": "9590502a-e3b2-424e-a61d-b071687f5fa9",
@@ -24,7 +24,7 @@
       "id": "706843e3-d5ff-48ff-abe9-5eee4f41f62a",
       "name": "Eng",
       "minutes": 30,
-      "done": false
+      "done": true
     },
     {
       "id": "45422211-7d3e-4dbb-baaf-316e185ffe9f",
