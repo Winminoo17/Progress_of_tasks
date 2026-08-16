@@ -7,6 +7,12 @@
       "name": "Calculus",
       "minutes": 90,
       "done": false
+    },
+    {
+      "id": "95c275a5-0706-4644-8529-3bd4fb64d7c9",
+      "name": "React",
+      "minutes": 180,
+      "done": false
     }
   ],
   "history": {
