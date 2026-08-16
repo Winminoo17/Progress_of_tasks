@@ -1,7 +1,14 @@
 {
   "startDate": "2026-08-07",
   "currentDate": "2026-08-16",
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "4642ca76-a7f0-4c78-854a-b9066a05ad76",
+      "name": "Calculus",
+      "minutes": 90,
+      "done": false
+    }
+  ],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
