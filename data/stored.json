@@ -7,6 +7,12 @@
       "name": "React",
       "minutes": 180,
       "done": false
+    },
+    {
+      "id": "369cfca4-62a7-494b-8c38-635b23a7d016",
+      "name": "Algorithm",
+      "minutes": 120,
+      "done": false
     }
   ],
   "history": {
