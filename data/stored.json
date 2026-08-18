@@ -7,6 +7,12 @@
       "name": "React",
       "minutes": 180,
       "done": false
+    },
+    {
+      "id": "8ffdbace-9f96-4781-98e3-8b5a6645ae56",
+      "name": "Computer vision",
+      "minutes": 1,
+      "done": false
     }
   ],
   "history": {
