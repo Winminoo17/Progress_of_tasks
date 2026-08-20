@@ -19,6 +19,12 @@
       "name": "English",
       "minutes": 30,
       "done": false
+    },
+    {
+      "id": "a274ff68-b279-4b22-94f8-936ba3a08f81",
+      "name": "Calculus",
+      "minutes": 30,
+      "done": false
     }
   ],
   "history": {
