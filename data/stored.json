@@ -1,7 +1,14 @@
 {
   "startDate": "2026-08-07",
   "currentDate": "2026-08-20",
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "7a940b9e-8fae-4927-9449-6a1d6b8ddcb4",
+      "name": "Home work",
+      "minutes": 1,
+      "done": false
+    }
+  ],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
