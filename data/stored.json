@@ -1,32 +1,7 @@
 {
   "startDate": "2026-08-07",
-  "currentDate": "2026-08-20",
-  "tasks": [
-    {
-      "id": "7a940b9e-8fae-4927-9449-6a1d6b8ddcb4",
-      "name": "Home work",
-      "minutes": 1,
-      "done": true
-    },
-    {
-      "id": "bbf42666-49c9-4c85-a1ee-2510b799cfab",
-      "name": "React",
-      "minutes": 120,
-      "done": true
-    },
-    {
-      "id": "55553038-86ca-4843-9f13-49b37bfceb1d",
-      "name": "English",
-      "minutes": 30,
-      "done": false
-    },
-    {
-      "id": "a274ff68-b279-4b22-94f8-936ba3a08f81",
-      "name": "Calculus",
-      "minutes": 30,
-      "done": false
-    }
-  ],
+  "currentDate": "2026-08-21",
+  "tasks": [],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
@@ -38,6 +13,7 @@
     "2026-08-15": 60,
     "2026-08-16": 60,
     "2026-08-17": 0,
-    "2026-08-18": 0
+    "2026-08-18": 0,
+    "2026-08-20": 50
   }
 }
