@@ -19,6 +19,12 @@
       "name": "Eng",
       "minutes": 30,
       "done": false
+    },
+    {
+      "id": "ef4b63c0-5d7a-42f1-bfc3-850b937df6ec",
+      "name": "Logo",
+      "minutes": 120,
+      "done": false
     }
   ],
   "history": {
