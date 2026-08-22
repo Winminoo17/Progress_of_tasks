@@ -7,6 +7,18 @@
       "name": "React",
       "minutes": 180,
       "done": false
+    },
+    {
+      "id": "9ccd76fb-a61a-494f-90b4-c08fff8a7bdb",
+      "name": "Homework",
+      "minutes": 90,
+      "done": false
+    },
+    {
+      "id": "09a6707d-6413-4f81-91a6-fe0d8fade06e",
+      "name": "Eng",
+      "minutes": 30,
+      "done": false
     }
   ],
   "history": {
