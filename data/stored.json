@@ -12,19 +12,19 @@
       "id": "9ccd76fb-a61a-494f-90b4-c08fff8a7bdb",
       "name": "Homework",
       "minutes": 90,
-      "done": false
+      "done": true
     },
     {
       "id": "09a6707d-6413-4f81-91a6-fe0d8fade06e",
       "name": "Eng",
       "minutes": 30,
-      "done": false
+      "done": true
     },
     {
       "id": "ef4b63c0-5d7a-42f1-bfc3-850b937df6ec",
       "name": "Logo",
       "minutes": 120,
-      "done": false
+      "done": true
     }
   ],
   "history": {
