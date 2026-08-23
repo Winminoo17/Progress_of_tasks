@@ -31,6 +31,12 @@
       "name": "Computer vision",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "e843345b-001c-4221-9f1c-097ade411dfe",
+      "name": "Calculus 1",
+      "minutes": 120,
+      "done": false
     }
   ],
   "history": {
