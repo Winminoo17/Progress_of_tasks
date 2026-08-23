@@ -1,44 +1,7 @@
 {
   "startDate": "2026-08-07",
-  "currentDate": "2026-08-23",
-  "tasks": [
-    {
-      "id": "3fc4bbe2-0773-476e-aef9-da65d5764ebe",
-      "name": "Eng",
-      "minutes": 30,
-      "done": true
-    },
-    {
-      "id": "f64473b4-1a68-48c5-a9a6-9bf6fb1cf560",
-      "name": "Homework",
-      "minutes": 30,
-      "done": true
-    },
-    {
-      "id": "2dd7c021-be73-4a71-a8ac-75a2164a3587",
-      "name": "Logo",
-      "minutes": 120,
-      "done": true
-    },
-    {
-      "id": "7bd53130-b6ca-4569-a57e-1cbf41a78a1c",
-      "name": "Data mining",
-      "minutes": 60,
-      "done": false
-    },
-    {
-      "id": "724207fb-c6f5-4df7-ba27-31426f59ebdf",
-      "name": "Computer vision",
-      "minutes": 60,
-      "done": true
-    },
-    {
-      "id": "e843345b-001c-4221-9f1c-097ade411dfe",
-      "name": "Calculus 1",
-      "minutes": 120,
-      "done": true
-    }
-  ],
+  "currentDate": "2026-08-24",
+  "tasks": [],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
@@ -52,6 +15,7 @@
     "2026-08-17": 0,
     "2026-08-18": 0,
     "2026-08-20": 50,
-    "2026-08-22": 100
+    "2026-08-22": 100,
+    "2026-08-23": 83
   }
 }
