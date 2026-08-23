@@ -19,6 +19,12 @@
       "name": "Logo",
       "minutes": 120,
       "done": false
+    },
+    {
+      "id": "7bd53130-b6ca-4569-a57e-1cbf41a78a1c",
+      "name": "Data mining",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {
