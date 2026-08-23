@@ -13,6 +13,12 @@
       "name": "Homework",
       "minutes": 30,
       "done": false
+    },
+    {
+      "id": "2dd7c021-be73-4a71-a8ac-75a2164a3587",
+      "name": "Logo",
+      "minutes": 120,
+      "done": false
     }
   ],
   "history": {
