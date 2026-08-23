@@ -25,6 +25,12 @@
       "name": "Data mining",
       "minutes": 60,
       "done": false
+    },
+    {
+      "id": "724207fb-c6f5-4df7-ba27-31426f59ebdf",
+      "name": "Computer vision",
+      "minutes": 60,
+      "done": false
     }
   ],
   "history": {
