@@ -1,7 +1,14 @@
 {
   "startDate": "2026-08-07",
   "currentDate": "2026-08-25",
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "554b205a-d4f3-4fc0-a70d-b35c4c13a36a",
+      "name": "Data mining",
+      "minutes": 120,
+      "done": false
+    }
+  ],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
