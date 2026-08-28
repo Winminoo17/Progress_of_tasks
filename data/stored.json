@@ -7,6 +7,12 @@
       "name": "Eng",
       "minutes": 30,
       "done": false
+    },
+    {
+      "id": "01c1bbb0-093e-42a2-9f2c-5dd6bbea896b",
+      "name": "Algorithm",
+      "minutes": 240,
+      "done": false
     }
   ],
   "history": {
