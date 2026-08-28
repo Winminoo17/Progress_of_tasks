@@ -13,6 +13,12 @@
       "name": "Algorithm",
       "minutes": 240,
       "done": false
+    },
+    {
+      "id": "a0ab3a74-32dc-4f51-99fa-eed04a24befa",
+      "name": "Data science",
+      "minutes": 240,
+      "done": false
     }
   ],
   "history": {
