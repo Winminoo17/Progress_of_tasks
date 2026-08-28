@@ -1,7 +1,14 @@
 {
   "startDate": "2026-08-07",
   "currentDate": "2026-08-28",
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "4d76ff55-655b-4091-876f-985ab59f396b",
+      "name": "Eng",
+      "minutes": 30,
+      "done": false
+    }
+  ],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
