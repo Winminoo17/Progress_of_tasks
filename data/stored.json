@@ -13,6 +13,12 @@
       "name": "Fast api",
       "minutes": 60,
       "done": true
+    },
+    {
+      "id": "809e1cfc-9263-4396-904d-ab8f8b5f1a38",
+      "name": "Eng",
+      "minutes": 30,
+      "done": true
     }
   ],
   "history": {
