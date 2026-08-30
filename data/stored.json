@@ -1,7 +1,20 @@
 {
   "startDate": "2026-08-07",
   "currentDate": "2026-08-30",
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "5c534354-38b0-4029-b7a4-789ac6830edf",
+      "name": "Algorithm",
+      "minutes": 240,
+      "done": false
+    },
+    {
+      "id": "659a8c10-ca0f-4017-8f14-37bab2c3aade",
+      "name": "Eng",
+      "minutes": 30,
+      "done": false
+    }
+  ],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
