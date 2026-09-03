@@ -7,6 +7,18 @@
       "name": "Algorithm",
       "minutes": 180,
       "done": false
+    },
+    {
+      "id": "f07251fa-d733-4dfe-b1bc-3ed470ad6c08",
+      "name": "Eng",
+      "minutes": 30,
+      "done": false
+    },
+    {
+      "id": "bf471a1e-1b49-440d-b2d3-7edf8d3ff534",
+      "name": "CV",
+      "minutes": 120,
+      "done": false
     }
   ],
   "history": {
