@@ -6,12 +6,18 @@
       "id": "b24bc6bd-04ff-4f92-974d-33109b34b9d2",
       "name": "Fastapi",
       "minutes": 120,
-      "done": false
+      "done": true
     },
     {
       "id": "8a28c651-2144-4a9b-b0e4-be3ae9a11957",
       "name": "Eng",
       "minutes": 30,
+      "done": false
+    },
+    {
+      "id": "f9d4b20f-b069-47c0-a8d7-81eed0525efd",
+      "name": "CV",
+      "minutes": 120,
       "done": false
     }
   ],
