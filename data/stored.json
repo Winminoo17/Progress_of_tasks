@@ -19,6 +19,12 @@
       "name": "CV",
       "minutes": 120,
       "done": false
+    },
+    {
+      "id": "ee867b8a-0682-44b6-93d9-2f143587aab2",
+      "name": "Algorithm",
+      "minutes": 180,
+      "done": false
     }
   ],
   "history": {
