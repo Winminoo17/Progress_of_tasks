@@ -1,32 +1,7 @@
 {
   "startDate": "2026-08-07",
-  "currentDate": "2026-09-04",
-  "tasks": [
-    {
-      "id": "b24bc6bd-04ff-4f92-974d-33109b34b9d2",
-      "name": "Fastapi",
-      "minutes": 120,
-      "done": true
-    },
-    {
-      "id": "8a28c651-2144-4a9b-b0e4-be3ae9a11957",
-      "name": "Eng",
-      "minutes": 30,
-      "done": false
-    },
-    {
-      "id": "f9d4b20f-b069-47c0-a8d7-81eed0525efd",
-      "name": "CV",
-      "minutes": 120,
-      "done": false
-    },
-    {
-      "id": "ee867b8a-0682-44b6-93d9-2f143587aab2",
-      "name": "Algorithm",
-      "minutes": 180,
-      "done": false
-    }
-  ],
+  "currentDate": "2026-09-05",
+  "tasks": [],
   "history": {
     "2026-08-07": 0,
     "2026-08-08": 75,
@@ -46,6 +21,7 @@
     "2026-08-28": 0,
     "2026-08-29": 100,
     "2026-08-30": 100,
-    "2026-09-03": 67
+    "2026-09-03": 67,
+    "2026-09-04": 25
   }
 }
